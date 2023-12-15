@@ -1,0 +1,9 @@
+.RightImage-class{
+    /* border: 1px solid red; */
+    /* width: 1000%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100%; */
+    padding-top: 50px;
+}

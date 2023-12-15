@@ -1,0 +1,10 @@
+.home-body{
+
+  /* padding: 10px; */
+  display: flex;
+  overflow: hidden; 
+
+}
+*{
+  overflow-y: hidden;
+}

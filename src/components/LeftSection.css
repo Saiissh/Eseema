@@ -1,0 +1,64 @@
+.LeftImage-class{
+  
+        /* padding-left: 10px;
+        padding-top: 10px; */
+        max-width: 100%;
+        max-height: 60%;
+        width: '40px'; 
+        height: 'auto';
+        /* display: none; */
+}
+
+.Left-Body{
+    padding: 5px;
+    background-color: rgb(245, 240, 240);
+    height: 90vh;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.h5-menus{
+    color: #000; /* Initial text color */
+  transition: color 0.3s ease; /* Smooth transition effect */
+  padding: 4px;
+}
+
+.h5-menus:hover{
+    color: white;
+    cursor: pointer;
+    background-color: grey;
+    border-radius: 5px;
+}
+
+.Outer-div{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+
+.Lower-leftsection-internals{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 11px;
+    align-items: center;
+    width: 90%;
+    
+   
+}
+
+.Lower-menu-btn{
+    
+    padding: 5px 7px;
+    color: white;
+    background-color: rgb(50, 50, 202);
+    
+}
+
+.Lower-leftsection-internals-leftsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}

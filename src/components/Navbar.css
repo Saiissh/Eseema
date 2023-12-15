@@ -1,0 +1,21 @@
+.Nav-body{
+
+    margin-top: 10px;
+    display: flex;
+    padding-left: 20px;
+    color: white;
+    background-color: rgb(10, 10, 114);
+    height: 40px;
+    /* width: 100%; */
+    /* justify-content: center; */
+    /* justify-content: center; */
+    align-items: center;
+}
+
+/* h3{ 
+    background-color:rgb(10, 10, 114); 
+     border: 1px solid red; 
+     border:none;
+    max-width: 100px;
+    color: white;
+ } */

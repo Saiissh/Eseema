@@ -1,0 +1,46 @@
+h3{
+    text-align: center;
+    width: 100%;
+    padding: 9px;
+    background-color: beige;
+    border-radius: 20px;
+}
+
+.UnitSet-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.Unit-name{
+    border: 1px solid black;
+    padding: 3px;
+    width: 200px;
+    background-color: beige;
+    border: none;
+   
+}
+
+.Indi-Unit{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+select{
+ width: 200px;   
+ text-align: right;
+ padding-right: 10px;
+ border: 0.5px solid grey;
+}
+button{
+    padding: 9px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+}
